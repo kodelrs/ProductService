@@ -1,0 +1,15 @@
+C:\net\microservices\ProductService\bin\Debug\ProductService.Views.dll
+C:\net\microservices\ProductService\bin\Debug\ProductService.Views.pdb
+C:\net\microservices\ProductService\bin\Debug\appsettings.Development.json
+C:\net\microservices\ProductService\bin\Debug\appsettings.json
+C:\net\microservices\ProductService\bin\Debug\Properties\launchSettings.json
+C:\net\microservices\ProductService\bin\Debug\ProductService.exe
+C:\net\microservices\ProductService\bin\Debug\ProductService.dll
+C:\net\microservices\ProductService\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\net\microservices\ProductService\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\net\microservices\ProductService\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\net\microservices\ProductService\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\net\microservices\ProductService\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\net\microservices\ProductService\bin\Debug\ProductService.pdb
+C:\net\microservices\ProductService\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\net\microservices\ProductService\obj\Debug\docker-compose.dcproj.CopyComplete

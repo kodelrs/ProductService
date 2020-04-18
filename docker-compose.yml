@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  productservice:  
+    links:  
+      - sqlserverService  
+    image: ${DOCKER_REGISTRY-}productservice  
+    build:  
+      context: .  
+      dockerfile: ProductService/Dockerfile  
+  
+  sqlserverService:  
+    image: microsoft/mssql-server-linux:2017-latest  
+    hostname: 'MURU'  
+    environment:  
+      ACCEPT_EULA: Y  
+      SA_PASSWORD: "admin"  
+    volumes:  
+      - ./data/mssql:/var/opt/mssql3  
+    ports:  
+      - '1433:1433'  
+    expose:  
+      - 1433   
+      
